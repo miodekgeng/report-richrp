@@ -1,1 +1,1 @@
-##ELOOOOOOOO RICHRP
+#pasta z richrp 
