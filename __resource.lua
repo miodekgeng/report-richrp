@@ -1,11 +1,6 @@
---[[
 
-  Made with love by Cheleber, you can join my RP Server here: www.grandtheftlusitan.com
-  Works with essentialmode, es_admin and esx_identity!
 
---]]
-
-description 'Reply and Report command'
+description 'richrp'
 
 version '1.0.0'
 
