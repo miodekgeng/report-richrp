@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maciek</h1>
+
 <h3 align="center">Kocham richrp | Chcesz jakiś skrypt na zamówienie pisz crazy8#1111</h3>
 
 <h3 align="left">Connect with me:</h3>
